@@ -1,0 +1,16 @@
+{
+  "name": "apache-kafka-basic",
+  "version": "1.0.0",
+  "description": "Basic example about Apache Kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.3"
+  }
+}
